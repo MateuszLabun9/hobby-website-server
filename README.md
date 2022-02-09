@@ -12,8 +12,12 @@ This is a main page of this project with basics informations and copyrights in p
 
 This photo shows gallery with many pictures of eletrcic modules with polish decsription. 
 
+![image](https://user-images.githubusercontent.com/44081987/153241585-4252cae8-6ebe-4c09-a469-42b79f8d6b1b.png)
+
+This is an voice recordings, with all esential data, there is also a possibility to download file. 
+
 ![image](https://user-images.githubusercontent.com/44081987/153237579-a0038323-a6ff-4092-bdd4-f66552560fbd.png)
 
-This is an Video component with all esential data, there is also a possibility to download the video. 
+This is an video component with all esential data, there is also a possibility to download the video. 
 
-
+There was also a RSS feature, on serwer there was specially prepared RSS channels with subscription option for each voice and video content.  
