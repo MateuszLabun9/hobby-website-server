@@ -1,7 +1,8 @@
 # hobby-website-server
 Website about my hobbies created on xampp server
 
-Fully functional website. Can be easily posted on XAMPP serwer. This website is about my hobby - digital technology. 
+Fully functional website. Can be easily posted on XAMPP serwer. This website is about my hobby - digital technology. It is created with html and CSS mainly, 
+server was hosted by Silesian University of Technology. 
 Website contains, main page, gallery, voice recordings and videos. Language is in Polish because this was a project for studies.  
 
 ![image](https://user-images.githubusercontent.com/44081987/153241243-77cc4572-f890-4117-9c0a-e89d0ec3ba46.png)
