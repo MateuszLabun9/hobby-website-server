@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Video</title>
+    <link>http://bsd.iele.polsl.pl/~labun/video.html</link>
+    <description>Autor: Mateusz Łabuń</description>
+    <language>en-us</language>
+    <copyright>Wszystkie prawa zastrzeżone</copyright>
+    <item>
+      <title>Film Pierwszy</title>
+      <pubDate>Mon, 16 Mar 2020 14:40:51 +0100</pubDate>
+      <link>http://bsd.iele.polsl.pl/~labun/video/odcinek_1.mp4</link>
+      <category>video/mp4</category>
+      <description><![CDATA[Autor: Mateusz Łabuń]]></description>
+    </item>
+    <item>
+      <title>Film Drugi</title>
+      <pubDate>Mon, 16 Mar 2020 14:40:50 +0100</pubDate>
+      <link>http://bsd.iele.polsl.pl/~labun/video/Odcinek_2.mp4</link>
+      <category>video/mpr</category>
+      <description><![CDATA[Autor: Mateusz Łabuń]]></description>
+    </item>
+    <item>
+      <title>Film Trzeci</title>
+      <pubDate>Mon, 16 Mar 2020 14:40:50 +0100</pubDate>
+      <link>http://bsd.iele.polsl.pl/~labun/video/odcinek_3.mp4</link>
+      <category>video/mp4</category>
+      <description><![CDATA[Autor: Mateusz Łabuń]]></description>
+    </item>
+  </channel>
+</rss>

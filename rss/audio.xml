@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Audio</title>
+    <link>http://bsd.iele.polsl.pl/~labun/video.html</link>
+    <description>Autor: Mateusz Łabuń</description>
+    <language>en-us</language>
+    <copyright>Wszystkie prawa zastrzeżone</copyright>
+    <item>
+      <title>Pierwsze nagranie audio</title>
+      <pubDate>Thu, 19 Mar 2020 14:32:26 +0100</pubDate>
+      <link>http://bsd.iele.polsl.pl/~labun/gotowe/Odc_1.mp3</link>
+      <category>audio/mp3</category>
+      <description><![CDATA[Autor: Mateusz Łabuń]]></description>
+    </item>
+    <item>
+      <title>Drugie nagranie audio</title>
+      <pubDate>Thu, 19 Mar 2020 14:33:54 +0100</pubDate>
+      <link>http://bsd.iele.polsl.pl/~labun/gotowe/odc_2.ogg</link>
+      <category>audio/ogg</category>
+      <description><![CDATA[Autor: Mateusz Łabuń]]></description>
+    </item>
+    <item>
+      <title>Trzecie nagranie audio</title>
+      <pubDate>Thu, 19 Mar 2020 14:34:38 +0100</pubDate>
+      <link>http://bsd.iele.polsl.pl/~labun/gotowe/odc_3.ogg</link>
+      <category>audio/ogg</category>
+      <description><![CDATA[Autor: Mateusz Łabuń]]></description>
+    </item>
+  </channel>
+</rss>
